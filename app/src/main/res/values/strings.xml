@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Trabalho Semestral</string>
+    <string name="tvBemVindo"> \n SEJA BEM-VINDO    \n AO SEU APP  \n PLANEJADOR DE ORÇAMENTO</string>
+    <string name="item_comprasOutros">OUTRAS COMPRAS</string>
+    <string name="item_comprasMercado">COMPRAS DE MERCADO</string>
+    <string name="item_comprasRoupas">COMPRAS DE ROUPA</string>
+    <string name="item_renda">RENDA</string>
+    <string name="item_rendaInvestimento">RENDA INVESTIDA</string>
+    <string name="item_totals">BALANÇO GERAL</string>
+    <string name="etID">ID DA COMPRA </string>
+    <string name="etValor">VALOR DA COMPRA </string>
+    <string name="etQuantidade">QUANTIDADE DE ITENS</string>
+    <string name="etDataMercado">DATA DA COMPRA </string>
+    <string name="etNomeMercado">NOME DO MERCADO</string>
+    <string name="tvMercado">COMPRAS DE MERCADO</string>
+    <string name="tvOutros"> OUTRAS COMPRAS </string>
+    <string name="tvRoupas"> COMPRAS DE ROUPAS </string>
+    <string name="tvRenda"> SUA RENDA </string>
+    <string name="tvRendaInvestimento"> RENDA INVESTIDA </string>
+    <string name="cbInvestimento"> INVESTIU A RENDA? </string>
+    <string name="cadastar">CADASTRAR</string>
+    <string name="excluir">EXCLUIR!</string>
+    <string name="tvBalancoGeral">BALANÇO GERAL \n DA SUA RENDA \n E \n GASTOS</string>
+    <string name="btnGerar"> GERAR</string>
+    <string name="atualizar">ATUALIZAR</string>
+    <string name="listar">LISTAR</string>
+    <string name="consultar">CONSULTAR</string>
+    <string name="cbCartaoOutros">COMPRA NO CARTÃO</string>
+    <string name="etDescricaoOutros">DESCRIÇÃO DA COMPRA </string>
+    <string name="etTipoRoupa">TIPO DA(S) ROUPA(S) </string>
+    <string name="etTamanhoRoupa">TAMANHO DA(S) ROUPA(S)</string>
+    <string name="etValorRenda">VALOR DA SUA RENDA </string>
+    <string name="etFonteRenda">DE ONDE VEM SUA RENDA</string>
+    <string name="etIDRenda">NUMERE ESSA RENDA</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

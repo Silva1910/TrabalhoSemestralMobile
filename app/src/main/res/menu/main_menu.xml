@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Item_comprasMercado"
+        android:title="@string/item_comprasMercado" />
+    <item
+        android:id="@+id/item_comprasOutros"
+        android:title="@string/item_comprasOutros" />
+    <item
+        android:id="@+id/item_comprasRoupas"
+        android:title="@string/item_comprasRoupas" />
+    <item
+        android:id="@+id/item_renda"
+        android:title="@string/item_renda" />
+    <item
+        android:id="@+id/item_BalancoGeral"
+        android:title="@string/item_totals" />
+</menu>
